@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Library.Service.Models
+namespace Library.Repository.DomainModels
 {
     public class Book
     {
